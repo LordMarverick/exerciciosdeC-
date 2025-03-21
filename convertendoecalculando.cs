@@ -1,10 +1,10 @@
 //codigo com a função de calculo e conversão// 
 
 console.writeline("Quantos Votos Brancos?");
-int brancos = convert.toint 16 (console.readline());
+int brancos = convert.toint16 (console.readline());
 
 console.writeline ("Quantos votos nulos?");
-int nulos = converto.toint 16 (console.readline());
+int nulos = converto.toint16 (console.readline());
 
 console.writeline("Quantos votos válidos");
 int validos = convert.toint16(console.readline());
