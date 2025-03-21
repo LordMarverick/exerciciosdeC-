@@ -4,10 +4,10 @@ static void main (string[]args){
 double A, B, somatotal;
 
 console.writeline("Digite a altura do retânglo?");
-double A = convert.double(console.readline());
+double A = convert.todouble(console.readline());
 
 console.writeline ("Digite a base do retângulo?");
-double B = converto.doble(console.readline());
+double B = conver.todouble(console.readline());
 
 somatotal = A + B;
 
